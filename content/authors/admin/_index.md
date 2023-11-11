@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 周松霖
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Songlin Zhou
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Songlin
+last_name: Zhou
 
 # Status emoji
 status:
@@ -17,12 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Student in Tsinghua University
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: [https://www.tsinghua.edu.cn/en/](https://www.tsinghua.edu.cn/en/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
