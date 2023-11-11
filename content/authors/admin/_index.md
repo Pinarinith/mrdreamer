@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in 2024 Tsinghua University (expected)
+    - course: BSc in Tsinghua University,2024 (expected)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ skills:
       - name: Tex
         description: ''
         percent: 80
-        icon: python
+        icon: LaTex
         icon_pack: fab
       - name: Matlab
         description: ''
@@ -58,12 +58,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: swimming
         icon_pack: fas
-      - name: Cats
+      - name: Fitting
         description: ''
         percent: 100
         icon: cat
