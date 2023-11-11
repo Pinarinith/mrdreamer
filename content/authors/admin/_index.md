@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Tsinghua University,2024 (expected)
+    - course: BSc in Tsinghua University, 2024 (expected)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
