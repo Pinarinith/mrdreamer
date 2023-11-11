@@ -21,7 +21,7 @@ role: Student in Tsinghua University
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tsinghua University
-    url: [https://www.tsinghua.edu.cn/en/](https://www.tsinghua.edu.cn/en/)
+    url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
